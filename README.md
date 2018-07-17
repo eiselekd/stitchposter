@@ -1,0 +1,1 @@
+```comp.pl``` combines jpg images inside a directory into a big poster using Image Magics ```convert -draw ...``` command.
